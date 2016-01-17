@@ -1,5 +1,5 @@
 ---
-title: Lotus root
+title: Racine de lotus
 subtitle: 
 layout: default
 modal-id: 1

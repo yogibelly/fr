@@ -1,5 +1,5 @@
 ---
-title: Black gram
+title: Lentilles noir
 subtitle: 
 layout: default
 modal-id: 3
