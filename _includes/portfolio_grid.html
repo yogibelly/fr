@@ -1,29 +1,120 @@
 <!-- Portfolio Grid Section -->
-    <section id="portfolio" class="bg-light-gray">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Les ingr&eacute;dients de la semaine</h2>
-                    <h3 class="section-subheading text-muted">7 mars, 2016</h3>
-                </div>
-            </div>
-            <div class="row">
-            {% for post in site.posts %}
-                <div class=".col-xs-6 .col-sm-4 portfolio-item">
-                    <a href="#portfolioModal{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
-                        <div class="portfolio-hover">
-                            <div class="portfolio-hover-content">
-                                <i class="fa fa-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="img/portfolio/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
-                    </a>
-                    <div class="portfolio-caption">
-                        <h4>{{ post.title }}</h4>
-                        <p class="text-muted">{{ post.subtitle }}</p>
-                    </div>
-                </div>
-            {% endfor %}
+<section id="portfolio" class="bg-light-gray">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">Cette Semaine</h2>
+                <h4 class="section-heading text-muted"><i class="fa fa-bullhorn">   </i>        Le repas du 15 et 16 mars est Végétarien</h4>
+                <!--<h4 class="section-subheading">Meal for March 15th and 16th is Vegetarian</h4>-->
             </div>
         </div>
-    </section>
+
+        <br><br>
+        
+        <div class="row">
+            <div class="col-lg-8 col-sm-offset-2 text-center">
+                <h4 class="section-heading text-muted">Ajoutez à votre commande certains de nos produits préférés de l'épicerie indienne
+                </h4>
+                <h4 class="section-heading text-muted">Pains Naan – Délicieux pain Naan à griller à la maison : <br>Paquet de 5 pour 7$ </h4>
+                    <h4 class="section-heading text-muted">Ras Malai – Dessert indien fait de fromage frais : <br> 4 pour 7$ </h4>
+                    </div>
+                </div>
+
+                <br><br><br><br>
+
+
+                <div class="row">
+                    <div class="col-lg-8 col-sm-offset-2 text-center">
+                        <h2 class="section-subheading text-muted"> Quel genre de nourriture devriez vous attendre de nous? Voici quelques exemples de menus précédents
+                        </h2>
+                    </div>
+                </div>
+                <br><br>
+
+                <!--<div class="row">
+                    {% for post in site.posts %}
+                    <div class="col-md-6 col-sm-6 portfolio-item">
+                        <a href="#portfolioModal{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content">
+                                    <i class="fa fa-plus fa-3x"></i>
+                                </div>
+                            </div>
+                            <img src="img/portfolio/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
+                        </a>
+                        <div class="portfolio-caption">
+                            <h4>{{ post.title }}</h4>
+                            <p class="text-muted">{{ post.subtitle }}</p>
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div>-->
+
+                <div class="row text-center">
+                    <div class="col-md-6 col-sm-6 portfolio-item">
+                        <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content">
+                                    <i class="fa fa-plus fa-3x"></i>
+                                </div>
+                            </div>
+                            <img src="img/portfolio/ion-leaf.png" class="img-responsive img-centered" alt="">
+                        </a>
+                        <div class="portfolio-caption">
+                            <!--<h4>{{ post.title }}</h4>-->
+                            <p class="text-muted">Menu du 8 et 9 mars</p>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-sm-6 portfolio-item">
+                        <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content">
+                                    <i class="fa fa-plus fa-3x"></i>
+                                </div>
+                            </div>
+                            <img src="img/portfolio/ion-leaf.png" class="img-responsive img-centered" alt="">
+                        </a>
+                        <div class="portfolio-caption">
+                            <!--<h4>{{ post.title }}</h4>-->
+                            <p class="text-muted">Échantillon d'un menu végétarien</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row text-center">
+                    <div class="col-md-6 col-sm-6 portfolio-item">
+                        <a href="#portfolioModal3" class="portfolio-link" data-toggle="modal">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content">
+                                    <i class="fa fa-plus fa-3x"></i>
+                                </div>
+                            </div>
+                            <img src="img/portfolio/fa-leaf.png" class="img-responsive img-centered" alt="">
+                        </a>
+                        <div class="portfolio-caption">
+                            <!--<h4>{{ post.title }}</h4>-->
+                            <p class="text-muted">Échantillon d'un menu vegane</p>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-sm-6 portfolio-item">
+                        <a href="#portfolioModal4" class="portfolio-link" data-toggle="modal">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content">
+                                    <i class="fa fa-plus fa-3x"></i>
+                                </div>
+                            </div>
+                            <img src="img/portfolio/fa-leaf.png" class="img-responsive img-centered" alt="">
+                        </a>
+                        <div class="portfolio-caption">
+                            <!--<h4>{{ post.title }}</h4>-->
+                            <p class="text-muted">Échantillon d'un menu vegane</p>
+                        </div>
+                    </div>
+                </div>
+
+
+
+
+
+            </div>
+        </section>
