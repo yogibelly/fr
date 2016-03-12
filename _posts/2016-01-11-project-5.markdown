@@ -28,7 +28,7 @@ description:
 
         <br><br>
         <h3 class="service-heading text-center text-white">Shakarakand &amp; Shalgam Bharta</h3>
-        <p class="text-white">Les pommes de terre douces et les navets purée avec un mélange d'épices fraîches, le fenugrec et les tomates.</p>
+        <p class="text-white">Les patates douces et les navets purée avec un mélange d'épices fraîches, le fenugrec et les tomates.</p>
 
         <br><br>
         <h3 class="service-heading text-center text-white">Kaju aur Kishmish Riz Basmati</h3>
