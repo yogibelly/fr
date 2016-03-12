@@ -17,7 +17,7 @@ description:
           <a class="list-group-item" href="#"><i class="fa fa-pencil fa-fw"></i>&nbsp; Applications</a>
           <a class="list-group-item" href="#"><i class="fa fa-cog fa-fw"></i>&nbsp; Settings</a>
       </div>-->
-            <h2 class="service-heading text-center text-muted">Échantillon d'un menu végétarien</h2>
+            <h2 class="service-heading text-center text-muted">Example d'un menu végétarien</h2>
       <br><br>     
       <h3 class="service-heading text-center text-white">Kamal Kakhdi Kofta Curry <!--<abbr title="Vegan" class="vegetarianicon">Ⓥ</abbr>--> </h3>
                 <p class="text-white">Ces brochettes végétariennes sont faites avec la racine de lotus râpé, pommes de terre , le tofu et farine de pois chiche, lentement mijotés dans une sauce parfumée aromatisé avec gingembre frais, le paprika, le curcuma, le cumin et la cannelle.</p>
