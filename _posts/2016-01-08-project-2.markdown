@@ -17,24 +17,24 @@ description:
           <a class="list-group-item" href="#"><i class="fa fa-pencil fa-fw"></i>&nbsp; Applications</a>
           <a class="list-group-item" href="#"><i class="fa fa-cog fa-fw"></i>&nbsp; Settings</a>
       </div>-->
-      <h2 class="service-heading text-center text-muted">Menu du 8 et 9 mars</h2>
+      <h2 class="service-heading text-center text-muted">Menu du 15 et 16 mars</h2>
       <br><br>
-      <h3 class="service-heading text-center text-white">Kala Chana masala</h3>
-              <p class="text-white">Pois chiches noirs cuits avec des tomates, la coriandre, les graines de grenade, poivre et gingembre</p>
+      <h3 class="service-heading text-center text-white">Besan Khadi</h3>
+              <p class="text-white">Beignets préparés avec de la farine de pois chiche dans une sauce à base de yogourt, curcuma, feuilles de curry et citron qui donnent au plat sa saveur acidulée. Un plat de réconfort typique de la cuisine indienne</p>
 
               <br><br>
-              <h3 class="service-heading text-center text-white">Ghiya Kofta Curry</h3>
-              <p class="text-white">Ces brochettes végétariennes combinent la courge opo râpé, pommes de terre, le tofu et farine de pois chiche qui sont lentement mijotés dans une sauce parfumée au gingembre frais, le paprika, le curcuma, la cannelle et les feuilles de laurier</p>
+              <h3 class="service-heading text-center text-white">Gajar Mehti Bhaji</h3>
+              <p class="text-white">Carottes et feuilles de fenugrec</p>
 
               <br><br>
-              <h3 class="service-heading text-center text-white">Baingan Ki Subzi</h3>
-              <p class="text-white">Les aubergines sont préparés dans une sauce aromatique de tomate à base de graines de cumin</p>
+              <h3 class="service-heading text-center text-white">Tori Ki Subzi</h3>
+              <p class="text-white">Zucchini revenu avec des onions et un mélange de garam masala fraichement moulu et servi avec un cari à base de tomates</p>
 
               <br><br>
               <h3 class="service-heading text-center text-white">Riz Basmati</h3>
-              <p class="text-white">Naturellement parfum&eacute;, riz à grains longs, pr&eacute;par&eacute; avec la coriandre</p>
+              <p class="text-white">Riz à grains longs, naturellement parfum&eacute; </p>
 
               <br><br>
               <h3 class="service-heading text-center text-white">Saunf</h3>
-              <p class="text-white">Un m&eacute;lange de graines lisses et confits de fenouil à d&eacute;guster apr&egrave;s un repas complet pour leurs propri&eacute;t&eacute;s digestives</p>
+              <p class="text-white">Graines de fenouil séchées et candifiées qui se consomment après un repas pour leurs propriétés digestives</p>
 ---
