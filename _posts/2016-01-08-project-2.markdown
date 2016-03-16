@@ -36,5 +36,5 @@ description:
 
               <br><br>
               <h3 class="service-heading text-center text-white">Saunf</h3>
-              <p class="text-white">Graines de fenouil séchées et candifiées qui se consomment après un repas pour leurs propriétés digestives</p>
+              <p class="text-white">Un mélange de graines de fenouil nature et enrobées de sucre, à déguster idéalement après le repas pour profiter de leurs propriétés digestives</p>
 ---

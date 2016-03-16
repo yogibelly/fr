@@ -36,6 +36,6 @@ description:
 
                 <br><br>
                 <h3 class="service-heading text-center text-white">Saunf</h3>
-                <p class="text-white">Un m&eacute;lange de graines lisses et confits de fenouil à d&eacute;guster apr&egrave;s un repas complet pour leurs propri&eacute;t&eacute;s digestives</p>
+                <p class="text-white">Un mélange de graines de fenouil nature et enrobées de sucre, à déguster idéalement après le repas pour profiter de leurs propriétés digestives</p>
 
 ---
