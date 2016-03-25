@@ -17,22 +17,22 @@ description:
           <a class="list-group-item" href="#"><i class="fa fa-pencil fa-fw"></i>&nbsp; Applications</a>
           <a class="list-group-item" href="#"><i class="fa fa-cog fa-fw"></i>&nbsp; Settings</a>
       </div>-->
-      <h2 class="service-heading text-center text-muted">Menu du 15 et 16 mars</h2>
+      <h2 class="service-heading text-center text-muted">Menu du 22 et 23 mars</h2>
       <br><br>
       <h3 class="service-heading text-center text-white">Besan Khadi</h3>
-              <p class="text-white">Beignets préparés avec de la farine de pois chiche dans une sauce à base de yogourt, curcuma, feuilles de curry et citron qui donnent au plat sa saveur acidulée. Un plat de réconfort typique de la cuisine indienne</p>
+              <p class="text-white">Les Cinq Joyaux: 5 lentilles différentes - Toor, Masoor rouge, Moong jaune, Masoor noir et gram fendu jaune. Garnie de tomate sauté dans le garam masala</p>
 
               <br><br>
-              <h3 class="service-heading text-center text-white">Gajar Mehti Bhaji</h3>
-              <p class="text-white">Carottes et feuilles de fenugrec</p>
+              <h3 class="service-heading text-center text-white">Gobi ki Sabzi</h3>
+              <p class="text-white">Chou-fleur avec des graines de moutarde, le cumin et épices</p>
 
               <br><br>
-              <h3 class="service-heading text-center text-white">Tori Ki Subzi</h3>
-              <p class="text-white">Zucchini revenu avec des onions et un mélange de garam masala fraichement moulu et servi avec un cari à base de tomates</p>
+              <h3 class="service-heading text-center text-white">Aloo Palak</h3>
+              <p class="text-white">Pommes de terre et les épinards</p>
 
               <br><br>
-              <h3 class="service-heading text-center text-white">Riz Basmati</h3>
-              <p class="text-white">Riz à grains longs, naturellement parfum&eacute; </p>
+              <h3 class="service-heading text-center text-white">Jeera ke Chawal</h3>
+              <p class="text-white">Riz à grains longs, naturellement parfum&eacute;, cuit avec du cumin rôti</p>
 
               <br><br>
               <h3 class="service-heading text-center text-white">Saunf</h3>
