@@ -19,7 +19,7 @@ description:
       </div>-->
       <h2 class="service-heading text-center text-muted">Menu du 22 et 23 mars</h2>
       <br><br>
-      <h3 class="service-heading text-center text-white">Besan Khadi</h3>
+      <h3 class="service-heading text-center text-white">Panch Ratan Daal</h3>
               <p class="text-white">Les Cinq Joyaux - 5 lentilles différentes - Toor, Masoor rouge, Moong jaune, Masoor noir et gram fendu jaune. Garnie de tomate sauté dans le garam masala</p>
 
               <br><br>
