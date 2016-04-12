@@ -1,6 +1,6 @@
 ---
 title: ""
-subtitle: Sample Vegan Menu
+subtitle: Weekly Menu
 layout: default
 modal-id: 1
 date: 2016-01-08
@@ -17,22 +17,22 @@ description:
           <a class="list-group-item" href="#"><i class="fa fa-pencil fa-fw"></i>&nbsp; Applications</a>
           <a class="list-group-item" href="#"><i class="fa fa-cog fa-fw"></i>&nbsp; Settings</a>
       </div>-->
-      <h2 class="service-heading text-center text-muted">Menu du 22 et 23 mars</h2>
+      <h2 class="service-heading text-center text-muted">Menu du 12 et 13 avril</h2>
       <br><br>
-      <h3 class="service-heading text-center text-white">Panch Ratan Daal</h3>
-              <p class="text-white">Les Cinq Joyaux - 5 lentilles différentes - Toor, Masoor rouge, Moong jaune, Masoor noir et gram fendu jaune. Garnie de tomate sauté dans le garam masala</p>
+      <h3 class="service-heading text-center text-white">Bharwan Baingan</h3>
+              <p class="text-white">Un grand classique dans notre famille, servi lors d’occasions spéciales - Petites aubergines farcies d’arachides, de noix de coco, d’un mélange d’épices maison et de graines de fenouil</p>
 
               <br><br>
-              <h3 class="service-heading text-center text-white">Gobi ki Sabzi</h3>
-              <p class="text-white">Chou-fleur avec des graines de moutarde, le cumin et épices</p>
+              <h3 class="service-heading text-center text-white">Shimla ki Mirch et Tofu</h3>
+              <p class="text-white">Poivrons rouges et jaunes sautés avec du tofu, du gingembre frais, garam masala, des tomates et de la coriandre</p>
 
               <br><br>
-              <h3 class="service-heading text-center text-white">Aloo Palak</h3>
-              <p class="text-white">Pommes de terre et les épinards</p>
+              <h3 class="service-heading text-center text-white">Kaali Masoor Daal</h3>
+              <p class="text-white">Une fève brune originaire de l’Inde cuite avec du gingembre, du curcuma, de l’asafoetida et du garam masala. Vous pouvez y ajouter une noisette de beurre pour un gout plus onctueux</p>
 
               <br><br>
-              <h3 class="service-heading text-center text-white">Jeera ke Chawal</h3>
-              <p class="text-white">Riz à grains longs, naturellement parfum&eacute;, cuit avec du cumin rôti</p>
+              <h3 class="service-heading text-center text-white">Riz Basmati</h3>
+              <p class="text-white">Un riz à grain long, naturellement parfumé, prepare avec du curcuma et des graines de moutarde noire</p>
 
               <br><br>
               <h3 class="service-heading text-center text-white">Saunf</h3>
