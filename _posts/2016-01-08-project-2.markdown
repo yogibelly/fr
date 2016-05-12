@@ -17,24 +17,28 @@ description:
           <a class="list-group-item" href="#"><i class="fa fa-pencil fa-fw"></i>&nbsp; Applications</a>
           <a class="list-group-item" href="#"><i class="fa fa-cog fa-fw"></i>&nbsp; Settings</a>
       </div>-->
-      <h2 class="service-heading text-center text-muted">Menu du 3 et 4 mai</h2>
+      <h2 class="service-heading text-center text-muted">Menu du 10 et 11 mai</h2>
       <br><br>
-      <h3 class="service-heading text-center text-white">Hari Pili Matar ki Daal</h3>
-              <p class="text-white">Un grand classique dans notre famille, servi lors d’occasions spéciales - Petites aubergines farcies d’arachides, de noix de coco, d’un mélange d’épices maison et de graines de fenouil</p>
+      <h3 class="service-heading text-center text-white">Achari Gobi</h3>
+              <p class="text-white">Choufleur preparé avec du curcuma, du yogourt et assaissoné 
+              avec un mélange maison de cinq épices - fenouil, cumin, fenugrec, graines de moutarde noire et graines de nigella </p>
 
               <br><br>
-              <h3 class="service-heading text-center text-white">Baingan Bharta</h3>
-              <p class="text-white">Poivrons rouges et jaunes sautés avec du tofu, du gingembre frais, garam masala, des tomates et de la coriandre</p>
+              <h3 class="service-heading text-center text-white">Rajma Subzi</h3>
+              <p class="text-white">Petit haricots rouges preparés dans un curry à base de tomates, 
+              garam masala et gingembre </p>
 
               <br><br>
-              <h3 class="service-heading text-center text-white">Hari Shimla ki Mirch et Aloo</h3>
-              <p class="text-white">Une fève brune originaire de l’Inde cuite avec du gingembre, du curcuma, de l’asafoetida et du garam masala. Vous pouvez y ajouter une noisette de beurre pour un gout plus onctueux</p>
+              <h3 class="service-heading text-center text-white">Shahi Mushroom</h3>
+              <p class="text-white">Ceci est un plat dégusté lors de festivités en Inde. Des 
+              champignons, pois verts et noix de cajou sont preparés dans une 
+              sauce à la crème avec de la canelle, de la cardamone et du chili</p>
 
               <br><br>
               <h3 class="service-heading text-center text-white">Riz Basmati</h3>
-              <p class="text-white">Un riz à grain long, naturellement parfumé, prepare avec du curcuma et des graines de moutarde noire</p>
+              <p class="text-white">Un riz à grain long, naturellement parfumé, préparé avec des feuilles de laurier frais </p>
 
-              <br><br>
+              <!--<br><br>
               <h3 class="service-heading text-center text-white">Saunf</h3>
-              <p class="text-white">Un mélange de graines de fenouil nature et enrobées de sucre, à déguster idéalement après le repas pour profiter de leurs propriétés digestives</p>
+              <p class="text-white">Un mélange de graines de fenouil nature et enrobées de sucre, à déguster idéalement après le repas pour profiter de leurs propriétés digestives</p>-->
 ---
