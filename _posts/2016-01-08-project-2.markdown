@@ -17,22 +17,22 @@ description:
           <a class="list-group-item" href="#"><i class="fa fa-pencil fa-fw"></i>&nbsp; Applications</a>
           <a class="list-group-item" href="#"><i class="fa fa-cog fa-fw"></i>&nbsp; Settings</a>
       </div>-->
-      <h2 class="service-heading text-center text-muted">Menu du 31 mai et 1er juin</h2>
+      <h2 class="service-heading text-center text-muted">Menu du 7 et 8 juin</h2>
       <br><br>
-      <h3 class="service-heading text-center text-white">Panch Ratan Daal</h3>
-              <p class="text-white">Daal des 5 bijoux - Daal fait avec 5 types de lentilles différentes (noires, jaunes, rouges, lentilles cassées et toor). Chaque lentille est cuite séparemment et ensuite le tout est revenu avec des tomates et du garam masala </p>
+      <h3 class="service-heading text-center text-white">Besan Khadi</h3>
+              <p class="text-white">Beignets préparés avec de la farine de poischiche dans une sauce à base de yogourt,curcuma, feuilles de curry et citron qui donnentau plat sa saveur acidulée. Un plat de réconfort typique de la cuisine indienne</p>
 
               <br><br>
-              <h3 class="service-heading text-center text-white">Imli Aloo</h3>
-              <p class="text-white">Pommmes de terres au tamarin, avec un assaisonnement de graines fenouil, menthe, fenugrec et chili</p>
+              <h3 class="service-heading text-center text-white">Gajar Mehti Bhaji</h3>
+              <p class="text-white">Petites carottes et feuilles de fenugrec frais</p>
 
               <br><br>
-              <h3 class="service-heading text-center text-white">Baigan et Mooli ki Subzi</h3>
-              <p class="text-white">Un mélange unique d'aubergines chinoises et de daikon prepare avec de la pâte de gingemnre, des graines de carvi, des tomates, de la poudre de mangue et un mélange d'épices maison</p>
+              <h3 class="service-heading text-center text-white">Shimla ki mirch aur Tofu</h3>
+              <p class="text-white">Poivrons oranges et verts sautés avec du tofu, du gingembre de la coriandre et du chili</p>
 
               <br><br>
               <h3 class="service-heading text-center text-white">Riz Basmati</h3>
-              <p class="text-white">Un riz à grain long, naturellement parfumé, préparé avec des graines de coriandre </p>
+              <p class="text-white">Un riz à grain long, naturellement parfumé, préparé avec des graines de fenouil </p>
 
               <!--<br><br>
               <h3 class="service-heading text-center text-white">Saunf</h3>
