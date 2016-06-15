@@ -17,24 +17,24 @@ description:
           <a class="list-group-item" href="#"><i class="fa fa-pencil fa-fw"></i>&nbsp; Applications</a>
           <a class="list-group-item" href="#"><i class="fa fa-cog fa-fw"></i>&nbsp; Settings</a>
       </div>-->
-      <h2 class="service-heading text-center text-muted">Menu du 7 et 8 juin</h2>
+      <h2 class="service-heading text-center text-muted">Menu du 14 et 15 juin</h2>
       <br><br>
-      <h3 class="service-heading text-center text-white">Besan Khadi</h3>
-              <p class="text-white">Beignets préparés avec de la farine de poischiche dans une sauce à base de yogourt,curcuma, feuilles de curry et citron qui donnentau plat sa saveur acidulée. Un plat de réconfort typique de la cuisine indienne</p>
+      <h3 class="service-heading text-center text-white">Navratan Sabzi Kofta Curry</h3>
+              <p class="text-white">Kebabs faits de haricots verts, carottes, pois verts, maiset farine de pois chiches, cuits lentement dans un curry à   base   de   tomates   et   courge   opo,   de   pois   verts, gingembre frais, paprika, curcuma, cannelle et feuilles de laurier</p>
 
               <br><br>
-              <h3 class="service-heading text-center text-white">Gajar Mehti Bhaji</h3>
-              <p class="text-white">Petites carottes et feuilles de fenugrec frais</p>
+              <h3 class="service-heading text-center text-white">Chana Masala</h3>
+              <p class="text-white">Pois chiches préparés dans un curry fait de tomates et d’un mélange d’épices maison. Ajoutez la sauce au tamarin faite  maison,  et  si  vous   le   souhaitez, ajoutez  de  la coriandre fraîche, du yogourt, des tomates en dés, des ognions coupés finement. Vous pouvez meme ajouter un samosa chaud</p>
 
               <br><br>
-              <h3 class="service-heading text-center text-white">Shimla ki mirch aur Tofu</h3>
-              <p class="text-white">Poivrons oranges et verts sautés avec du tofu, du gingembre de la coriandre et du chili</p>
+              <h3 class="service-heading text-center text-white">Arbi ki Sabzi</h3>
+              <p class="text-white">Découvrez le taro, un legume racine, qui est grillé avec un mélange de garam masala, de carvi, de la mangue séchée en poudre</p>
 
               <br><br>
               <h3 class="service-heading text-center text-white">Riz Basmati</h3>
-              <p class="text-white">Un riz à grain long, naturellement parfumé, préparé avec des graines de fenouil </p>
+              <p class="text-white">Un riz à grain long, naturellement parfumé, préparé du curcuma et des graines de moutarde noire</p>
 
-              <!--<br><br>
+              <br><br>
               <h3 class="service-heading text-center text-white">Saunf</h3>
-              <p class="text-white">Un mélange de graines de fenouil nature et enrobées de sucre, à déguster idéalement après le repas pour profiter de leurs propriétés digestives</p>-->
+              <p class="text-white">Un mélange de graines de fenouil nature et enrobées de sucre, à déguster idéalement après le repas pour profiter de leurs propriétés digestives</p>
 ---
