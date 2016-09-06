@@ -17,7 +17,7 @@ description:
           <a class="list-group-item" href="#"><i class="fa fa-pencil fa-fw"></i>&nbsp; Applications</a>
           <a class="list-group-item" href="#"><i class="fa fa-cog fa-fw"></i>&nbsp; Settings</a>
       </div>-->
-      <h2 class="service-heading text-center text-muted">Menu du 14 et 15 juin</h2>
+      <h2 class="service-heading text-center text-muted">Exemple d'un menu végétalien</h2>
       <br><br>
       <h3 class="service-heading text-center text-white">Navratan Sabzi Kofta Curry</h3>
               <p class="text-white">Kebabs faits de haricots verts, carottes, pois verts, maiset farine de pois chiches, cuits lentement dans un curry à   base   de   tomates   et   courge   opo,   de   pois   verts, gingembre frais, paprika, curcuma, cannelle et feuilles de laurier</p>

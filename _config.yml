@@ -74,12 +74,12 @@ people:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/yogi_belly
-  - title: facebook
-    url: http://facebook.com/yogibelly
-  - title: instagram
-    url: http://instagram.com/yogi_belly  
+#  - title: twitter
+#    url: http://twitter.com/yogi_belly
+#  - title: facebook
+#    url: http://facebook.com/yogibelly
+#  - title: instagram
+#    url: http://instagram.com/yogi_belly  
 #  - title: facebook
 #    url: http://yogibelly.com
 #  - title: stack-overflow
@@ -102,7 +102,7 @@ permalink: pretty
 footer:
   copyright: Yogi Belly
   location: T&eacute;l&eacute;phone
-  social: Sur le Web
+  #social: Sur le Web
   credits: email
 
   # Credits content
