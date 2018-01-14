@@ -29,7 +29,7 @@ people:
 
 - name: Sameer and Marie-Pierre
   pic: 2
-  position: Gestion, ventes et logistique
+  position: Fondateurs
   social:
     - title: github
       url: https://github.com/sameerbhatnagar
@@ -78,8 +78,8 @@ social:
 #    url: http://twitter.com/yogi_belly
  - title: facebook
    url: http://facebook.com/yogibelly
- - title: instagram
-   url: http://instagram.com/yogi_belly  
+# - title: instagram
+#   url: http://instagram.com/yogi_belly  
 #  - title: facebook
 #    url: http://yogibelly.com
 #  - title: stack-overflow
@@ -91,7 +91,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: (514) 867-3473
+  - line: (514) 458-5649
   - line: Montr&eacute;al, Qu&eacute;bec
 
 # Build settings
@@ -107,5 +107,5 @@ footer:
 
   # Credits content
 credits:
-  - line: <a href="mailto:mariepierre@yogibelly.com">mariepierre@yogibelly.com</a>
+  - line: <a href="mailto:teamyogibelly@gmail.com">teamyogibelly@gmail.com</a>
   #- line: sahiryogibelly.com 
